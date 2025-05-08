@@ -1,0 +1,19 @@
+{
+    "slug": "the-lovers-lab",
+    "title": {
+      "es": "THE LOVERS - SQLi y secretos románticos",
+      "en": "THE LOVERS - SQLi and Romantic Secrets"
+    },
+    "preview": "https://github.com/4GeeksAcademy/the-lovers-capture-the-flag/blob/main/assets/preview.png?raw=true",
+    "translations": ["es", "en"],
+    "technologies": ["cybersecurity", "linux", "sql-injection", "ssh", "hashcat"],
+    "difficulty": "intermediate",
+    "syntax": "bash",
+    "duration": 2,
+    "projectType": "capture-the-flag",
+    "description": {
+      "es": "Explota una vulnerabilidad de SQL Injection en una app de citas para acceder como administrador, obtener credenciales, descubrir secretos ocultos y escalar privilegios hasta obtener acceso root.",
+      "en": "Exploit a SQL Injection vulnerability in a dating app to access as admin, retrieve credentials, uncover hidden secrets, and escalate privileges to gain root access."
+    }
+  }
+  
