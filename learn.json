@@ -9,7 +9,7 @@
     "us":"https://github.com/4GeeksAcademy/capture-flag-sql-injection-and-escalate-privileges/blob/solution/SOLUTION.md",
     "es": "https://github.com/4GeeksAcademy/capture-flag-sql-injection-and-escalate-privileges/blob/solution/SOLUTION.es.md"
     },
-    "technologies": ["cybersecurity", "linux", "sql-injection", "ssh", "hashcat"],
+    "technologies": ["cybersecurity", "linux", "sql-injection", "ssh", "hashcat","red-team"],
     "difficulty": "intermediate",
     "duration": 2,
     "projectType": "capture-the-flag",
