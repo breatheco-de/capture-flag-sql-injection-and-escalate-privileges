@@ -4,10 +4,10 @@
       "es": "THE LOVERS - SQL inyección, escalada de privilegios y secretos románticos",
       "en": "THE LOVERS - SQL injection, and escalate privileges and Romantic Secrets"
     },
-    "preview": "https://github.com/4GeeksAcademy/the-lovers-capture-the-flag/blob/main/assets/preview.png?raw=true",
+    "preview": "https://github.com/breatheco-de/the-lovers-capture-the-flag/blob/main/assets/preview.png?raw=true",
     "solution": {
-    "us":"https://github.com/4GeeksAcademy/capture-flag-sql-injection-and-escalate-privileges/blob/solution/SOLUTION.md",
-    "es": "https://github.com/4GeeksAcademy/capture-flag-sql-injection-and-escalate-privileges/blob/solution/SOLUTION.es.md"
+    "us":"https://github.com/breatheco-de/capture-flag-sql-injection-and-escalate-privileges/blob/solution/SOLUTION.md",
+    "es": "https://github.com/breatheco-de/capture-flag-sql-injection-and-escalate-privileges/blob/solution/SOLUTION.es.md"
     },
     "technologies": ["cybersecurity", "linux", "sql-injection", "ssh", "hashcat","red-team"],
     "difficulty": "intermediate",
