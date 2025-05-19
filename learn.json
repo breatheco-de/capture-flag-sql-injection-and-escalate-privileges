@@ -16,6 +16,14 @@
     "description": {
       "es": "Explota una vulnerabilidad de SQL Injection en una app de citas para acceder como administrador, obtener credenciales, descubrir secretos ocultos y escalar privilegios hasta obtener acceso root.",
       "en": "Exploit a SQL Injection vulnerability in a dating app to access as admin, retrieve credentials, uncover hidden secrets, and escalate privileges to gain root access."
-    }
+    },
+    "delivery": {
+		"instructions": {
+			"us": "Paste the flag you found with format FLAG{hash}",
+			"es": "Agrega la bandera que encontraste con el formato FLAG{hash}"
+		},
+		"formats": ["flags"],
+		"quantity": 2
+	}
   }
   
